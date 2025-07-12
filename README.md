@@ -44,7 +44,7 @@ Each repository represents a different stage in the DevOps lifecycle.
 ## 📫 Connect With Me
 
 - [GitHub](https://github.com/akhildanda)
-- [LinkedIn](www.linkedin.com/in/akhil-reddy-aab10418b) 
+- [LinkedIn](https://www.linkedin.com/in/akhil-reddy-aab10418b) 
 
 ---
 
